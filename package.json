@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "docx": "^9.5.1",
+    "file-saver": "^2.0.5"
+  }
+}
